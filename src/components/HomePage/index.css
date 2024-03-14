@@ -1,0 +1,19 @@
+.button{
+background-color: skyblue;
+margin: 10px;
+}
+.gap{
+    margin: 10px;
+
+}
+.table{
+    border-collapse: separate;
+    border-spacing: 0 10px;
+}
+.th{
+    border: 1px solid black;
+    padding: 8px;
+}
+.heading{
+    text-decoration: underline;
+}
